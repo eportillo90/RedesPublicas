@@ -1,0 +1,4 @@
+R2
+----
+hostname R2
+ip domain-name eportillo.com
